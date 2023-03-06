@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.da8c1692.css","mappings":"AAAA,EAGI,sBAFA,SACA,SACA,CAGJ,OAEI,cADA,gBAEA","sources":["style.scss"],"sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n    \r\n}\r\n.width {\r\n    max-width: 600px;\r\n    margin: 0 auto;\r\n    width: 92%;\r\n}"],"names":[],"sourceRoot":""}
